@@ -9,7 +9,7 @@
 
 body {
   background-color: #2D2D2D;
-  background-image: url("/img/background_image_4.jpg") no-repeat center fixed;
+  background-image: url(/img/background_image_4.jpg);
   background-size: cover;
   color: white;
   height: 100%;
@@ -436,7 +436,7 @@ footer.grid-item {
     padding: 0px;
   }
   .mainindex {
-    margin-top: 248px;
+    margin-top: 48px;
     padding: 32px 24px;
     width: 100vw;
   }
@@ -519,7 +519,7 @@ footer.grid-item {
     -webkit-box-align: start;
         -ms-flex-align: start;
             align-items: flex-start;
-    margin-top: 250px;
+    margin-top: 50px;
     padding: 0px 12px;
   }
   .aboutgallery2 {

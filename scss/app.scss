@@ -21,7 +21,7 @@ $font_size_P: 20px;
 
 body {
 	background-color: #2D2D2D;
-	background-image: url("/img/background_image_4.jpg") no-repeat center fixed;
+	background-image: url(/img/background_image_4.jpg);
 	background-size: cover;
 	color: white;
 	height: 100%;
@@ -44,6 +44,8 @@ a {
 img {
 	width: 100%;
 }
+
+
 
 /* Botonera */
 .boton {
