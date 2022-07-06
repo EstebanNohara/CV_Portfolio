@@ -8,8 +8,9 @@
 }
 
 body {
+  
   background-color: #2D2D2D;
-  background-image: url(/img/background_image_4.jpg);
+  background-image: url(../img/background_image_4.jpg);
   background-size: cover;
   color: white;
   height: 100%;
